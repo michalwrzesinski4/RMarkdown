@@ -50,3 +50,7 @@ seasons_views <- c(mean(season_1), mean(season_2), mean(season_3), mean(season_4
 plot(seasons_views)
 ```
 
+
+# 6. Description of changes
+
+From season 1 to season 4 viewership systematically increased. After season 4 we can see drastically growth in number of viewers (more than 50% increase).
