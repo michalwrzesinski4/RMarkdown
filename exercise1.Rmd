@@ -10,3 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 *Breaking Bad* is an American neo-Western crime drama television series created and produced by Vince Gilligan. 
+
+# Photo
+![](images/breaking_bad.jpg)
