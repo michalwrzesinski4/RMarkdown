@@ -34,11 +34,19 @@ max(all_seasons)
 min(all_seasons)
 ```
 
-# 4. Graph of viewership
+# 4. Graph of viewership over time
 
 ```{r}
-plot(views_mln)
+plot(all_seasons)
 ```
 
 
+# 5. Graph of season-to-season viewership
+
+```{r}
+
+seasons_views <- c(mean(season_1), mean(season_2), mean(season_3), mean(season_4), mean(season_5))
+
+plot(seasons_views)
+```
 
