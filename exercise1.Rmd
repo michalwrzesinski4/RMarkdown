@@ -9,7 +9,21 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# 1. Brief description
 *Breaking Bad* is an American neo-Western crime drama television series created and produced by Vince Gilligan. 
 
-# Photo
+# 2. Photo
 ![](images/breaking_bad.jpg)
+
+# 3. Basic statistics
+Season 1.
+
+```{r}
+views_mln <- c(1.41, 1.49, 1.08, 1.09, 0.97, 1.07, 1.5)
+mean(views_mln)
+sd(views_mln)
+max(views_mln)
+min(views_mln)
+```
+
+
