@@ -1,0 +1,12 @@
+---
+title: "Exercise1"
+author: "Michał Wrzesiński"
+date: "8 04 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Breaking Bad* is an American neo-Western crime drama television series created and produced by Vince Gilligan. 
