@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](images/breaking_bad.jpg)
 
 # 3. Basic statistics
-Season 1.
 
 ```{r}
 season_1 <- c(1.41, 1.49, 1.08, 1.09, 0.97, 1.07, 1.5)
